@@ -43,20 +43,20 @@
     <br/>
 </p>
 
-We want to understand you better, so do not be afraid of failing, this is not a right or wrong matter. Just do your best. Good luck! :smile:
+We'd like to understand you better, so do not be afraid of failing, this is not a right or wrong matter. Just do your best. Good luck! :smile:
 
 ## Goal
 
-Your team is developing an application for users to manager establishments information. Your task is to create a Web application to consume and register this information.
+Your team is developing an application to manage establishments information. Your task is to create a Web application to consume and register this information.
 
 
 ## Non-functional specs
 
-* You must be builded in Angular 10.
-* You may use a css pre-processor.
+* It must be built with Angular version 10.
+* It may use a css pre-processor.
 * You may use any piece of technology you think is necessary or cool.
-* It must be builded in *components*.
-* Serviceless, you need to use the browser's technologies to save a persistent data. Use what you prefer. _Pure language_, libs, tools, you decide.
+* It must be built in *components*.
+* Serviceless, you need to use the browser's technologies to save a persistent data. Use what you prefer. _Pure language_, libs, tools.
 * It must be easy to setup and deploy. :children_crossing:
 * Use any Fonts.
 * Do your best.
@@ -66,23 +66,23 @@ Your team is developing an application for users to manager establishments infor
 ## User Stories
 
 #### :lock: As a anonymous user
-* I want to see a list of establishments
-* I want to see all information of a establishment
-* I want to save a change of this establishment
-* I want to go back to list of establishment
+* I'd like to see a list of establishments
+* I'd like to see all information of a establishment
+* I'd like to save a change of this establishment
+* I'd like to go back to the list of establishments
 
 
 ### Business Rules
 
-* Information changed is saved local only.
-* Always when user are opening application, all changed information need to be shown.
-* Application start with a pre populated data. Places, images, comments and users.
+* Information changed is saved locally only.
+* Always when the user is opening the application, all changed information need to be displayed.
+* The application starts with a pre populated data. Places, images, comments and users.
 
 ## Deliverables
 
-* The source code in a public git repository.
-* Instructions how to run the development environment.
-* Instructions how to deploy.
+* The source code must be placed in a public git repository.
+* Instructions of how to run the development environment.
+* Instructions of how to deploy.
 
 ## Evaluation
 
