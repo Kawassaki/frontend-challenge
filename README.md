@@ -52,7 +52,7 @@ Your team is developing an application for users to manager establishments infor
 
 ## Non-functional specs
 
-* You must be builded in Angular 8.
+* You must be builded in Angular 10.
 * You may use a css pre-processor.
 * You may use any piece of technology you think is necessary or cool.
 * It must be builded in *components*.
