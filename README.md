@@ -11,7 +11,7 @@
     :suspect: How you solve problems? :godmode:
     <br />
     <br />
-    <a href="https://www.jamesdelivery.com.br/talentos/">Talents</a>
+    <a href="https://www.jamesdelivery.com.br/carreiras.html">Talents</a>
     ·
     <a href="https://www.figma.com/file/6Z1eafamhmHr6n7DWbm4I9/Teste-James">All Figma Screenshots</a>
   </p>
